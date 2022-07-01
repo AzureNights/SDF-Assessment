@@ -42,6 +42,13 @@ public class MailMerge {
         }
 
 
+        function csvtoArray(str, delimiter = ","){
+            
+            
+        }
+
+
+
 
     }
     
@@ -49,4 +56,4 @@ public class MailMerge {
 
 
     
-}
+
