@@ -2,6 +2,7 @@ package exam
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -28,7 +29,9 @@ public class Mail{
 
     List<obj> what = new ArrayList<>();
 
-    
+    FileWriter write = new FileWriter("output.txt" + args[1]);
+
+
     
   }  
 

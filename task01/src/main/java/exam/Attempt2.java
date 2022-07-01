@@ -20,6 +20,9 @@ public class Attempt2 {
 
         
 
+        FileWriter write = new FileWriter("output.txt" + args[1]);
+        //for(datafromcsv)
+
 
 
 
