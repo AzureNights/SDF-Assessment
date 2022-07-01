@@ -15,11 +15,11 @@ public class Attempt2 {
         int lineNumber = 1;
         while(scn.hasNextLine()){
             String line = scn.nextLine();
-            datafromcsv.add(line);  
-
-            
-            
+            datafromcsv.add(line);            
         }
+
+        
+
 
 
 
